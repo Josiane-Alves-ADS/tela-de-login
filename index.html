@@ -16,14 +16,14 @@
 
 <body>
     <main class="container">
-        <form>
+        <form id="meuFormulario">
             <h1>Login</h1>
             <div class="input-box">
-                <input placeholder="Usuário" type="email"/>
+                <input placeholder="Usuário" type="email" id="email"/>
                 <i class="bx bxs-user"></i>
             </div>
             <div class="input-box">
-                <input placeholder="Senha" type="password"/>
+                <input placeholder="Senha" type="password" id="senha"/>
                 <i class="bx bxs-lock-alt"></i>
             </div>
 
@@ -35,7 +35,7 @@
                 <a href="#">Esqueci a senha</a>
             </div>
 
-            <button type="submit" class="login">Entrar</button>
+            <button type="submit" class="login" id="botaoEntrar">Entrar</button>
 
             <div class="register-link">
                 <p>Não tem uma conta? <a href="#">Cadastre-se</a></p>
@@ -43,5 +43,7 @@
         </form>
     </main>
 </body>
+
+<script src="scripts.js"></script>
 
 </html>

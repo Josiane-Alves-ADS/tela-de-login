@@ -11,7 +11,7 @@ Este projeto é uma interface de login moderna e responsiva, desenvolvida como p
 ## 📚 Créditos e Referências
 
 O design e a estrutura inicial deste projeto foram desenvolvidos acompanhando a aula do professor **Rodolfo Mori**:
-* **Canal:** [DevClub](https://www.youtube.com/@DevCluboficial)
+* **Canal:** [DevClub](https://www.youtube.com/@canaldevclub)
 * **Vídeo:** [Projeto Tela de Login com HTML e CSS](https://www.youtube.com/watch?v=pXAGoP2G2vE)
 
 ## 🛠️ Funcionalidades Extra (Em implementação)

@@ -2,6 +2,12 @@
 
 Este projeto é uma interface de login moderna e responsiva, desenvolvida como parte de um estudo prático de desenvolvimento web front-end.
 
+## 📸 Demonstração
+
+<div align="center">
+  <img src="img/layout-login.jpg" width="400px" alt="Preview da Tela de Login">
+</div>
+
 ## 🚀 Tecnologias Utilizadas
 
 * **HTML5**: Estruturação semântica.

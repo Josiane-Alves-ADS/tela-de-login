@@ -23,7 +23,7 @@ O design e a estrutura inicial deste projeto foram desenvolvidos acompanhando a 
 ## 🛠️ Funcionalidades Extra (Em implementação)
 
 Para expandir o conhecimento além do tutorial, estou implementando as seguintes funcionalidades em **JavaScript**:
-- [ ] Validação de campos obrigatórios (E-mail e Senha).
+- [x] Validação de campos obrigatórios (E-mail e Senha).
 - [ ] Alternar visibilidade da senha (Mostrar/Esconder).
 - [ ] Armazenamento local para a função "Lembrar senha".
 

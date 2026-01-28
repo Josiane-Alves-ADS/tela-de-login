@@ -7,7 +7,7 @@ formulario.addEventListener("submit", function(event) {
     let senha = document.getElementById("senha").value;
 
     if (email != "" && senha != "") {
-        alert("Aguarde, estamos fazendo o seu login!"); 
+        alert("Aguarde, estamos efetuando o seu login!"); 
     } else {
         alert("Por favor, verifique os campos: usuário e senha.");
     }
